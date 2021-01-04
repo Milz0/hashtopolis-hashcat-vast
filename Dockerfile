@@ -19,3 +19,4 @@ RUN git clone https://github.com/s3inlc/hashtopolis-agent-python.git && \
   ./build.sh && \
   mv hashtopolis.zip ../ && \
   cd ../ && rm -R hashtopolis-agent-python
+  
