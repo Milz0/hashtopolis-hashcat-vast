@@ -14,8 +14,6 @@ server which is remotely accessible
 
 ### Usage and Information
 
-Note: That this is a CUDA Installation, NOT OpenCL
-
 This is a one click set-up with vast.ai. Just click "Rent" button and your client will auto register with your hashtopolis server and will instantly start working on any available tasks you have waiting.
 
 This container takes the pain out of manually checking boxes and adding in additional parameters for each agent if you want to register a lot of agents at one time.
