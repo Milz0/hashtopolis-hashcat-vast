@@ -47,7 +47,7 @@ Go to `https://{your_domain}/config.php?view=5` and check box to allow vouchers 
 
 #### Vast.ai
 
-Edit `Image & Config` and use `milz0/vast-hashcat-hashtopolis` as your custom image
+Edit `Image & Config` and use `milz0/hashtopolis-hashcat-vast` as your custom image
 
 Your onstart-script should be written out as so in vast.ai, not before replacing both values {server} and {voucher_id} with your own.
 ```
