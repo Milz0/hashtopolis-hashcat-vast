@@ -1,4 +1,4 @@
-FROM nvidia/cuda:10.0-devel-ubuntu18.04
+FROM nvidia/cuda:11.1.1-devel-ubuntu18.04
 
 RUN apt update && apt install -y --no-install-recommends \
   zip \
